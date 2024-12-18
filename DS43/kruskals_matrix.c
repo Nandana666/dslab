@@ -37,7 +37,7 @@ void main() {
         v = find(v);
 
         if (uni(u, v)) {
-            printf("%d edge (%d,%d) = %d\n", ne++, a, b, min);
+            printf("Edge %d:(%d,%d) cost= %d\n", ne++, a, b, min);
             mincost += min;
         }
 
