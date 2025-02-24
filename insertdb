@@ -1,0 +1,6 @@
+insert into Employee values('emp1','John','1989-5-14','London','8763637710','D01','4000','staff'),('emp2','Arun','1985-05-13','Bombay','9763798889','D03','30000','manager'),
+('emp3','varun','1994-05-09','Kerala','9988776655','D02','7000','staff'),
+('emp4','Maria','1996-04-11','France','8866544201','D05','25000','Computer assistant'),
+('emp5','Adam','1988-05-20','UK','73669264489','D08','200000','Manager'),('emp6','Linta','1979-04-01','Delhi','9363926479','D04','150000','Manager'),
+('emp7','Mannual','2000-05-13','Kerala','8764667905','D06','180000','Computer assistant'),('emp8','David','1989-12-29','Europe','7763926488','D07','4500','staff'),
+('emp9','Shyam','1976-09-11','USA','7989695949','D10','30000','staff'),('emp10','Augastin','1981-07-23','Kerala','7810214590','D09','7000','staff');
